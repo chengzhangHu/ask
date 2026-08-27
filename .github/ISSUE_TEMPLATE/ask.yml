@@ -1,5 +1,5 @@
 name: 问知识库
-description: 基于公开知识库检索回答（仅公开已发布内容，匿名可问）
+description: 基于公开已发布内容检索问答（匿名可问）；定时批量回复，约 1–2 小时，每日限流
 title: "[Ask] "
 labels: [ask-runtime]
 body:
